@@ -9,6 +9,7 @@ def main():
     initializePyAutoGUI()
     countdownTimer()
 
+    # This trade loop begins by docking at Loki Station
     LOOP_REPITITIONS = 3
     for i in range(0, LOOP_REPITITIONS):
 
@@ -33,6 +34,7 @@ def main():
             print("Played starting actions {}".format(action_filename))
         sleep(2.00)
 
+        # Confirm we're at the correct starting position
         confirmPosition("lokistation_starting_pos")
 
         # Playback those four steps to go to the trader, do the buying/selling,
@@ -83,7 +85,7 @@ def main():
 
 
 def get_starting_pos(station):
-
+    # set the list of images we are trying to match
     if station == 'loki':
         images_to_check = [
             'lokistation_start_1.png',
