@@ -1,0 +1,104 @@
+[
+    {
+        "time": 5.196000576019287,
+        "type": "keyDown",
+        "button": "w",
+        "pos": null
+    },
+    {
+        "time": 7.675999879837036,
+        "type": "keyUp",
+        "button": "w",
+        "pos": null
+    },
+    {
+        "time": 8.659999370574951,
+        "type": "keyDown",
+        "button": "a",
+        "pos": null
+    },
+    {
+        "time": 9.187999248504639,
+        "type": "keyUp",
+        "button": "a",
+        "pos": null
+    },
+    {
+        "time": 10.091999292373657,
+        "type": "keyDown",
+        "button": "w",
+        "pos": null
+    },
+    {
+        "time": 11.884000062942505,
+        "type": "keyUp",
+        "button": "w",
+        "pos": null
+    },
+    {
+        "time": 14.372008800506592,
+        "type": "keyDown",
+        "button": "a",
+        "pos": null
+    },
+    {
+        "time": 14.796008825302124,
+        "type": "keyUp",
+        "button": "a",
+        "pos": null
+    },
+    {
+        "time": 15.860007762908936,
+        "type": "keyDown",
+        "button": "w",
+        "pos": null
+    },
+    {
+        "time": 17.57200860977173,
+        "type": "keyUp",
+        "button": "w",
+        "pos": null
+    },
+    {
+        "time": 18.964008569717407,
+        "type": "keyDown",
+        "button": "d",
+        "pos": null
+    },
+    {
+        "time": 20.012008905410767,
+        "type": "keyUp",
+        "button": "d",
+        "pos": null
+    },
+    {
+        "time": 21.572006940841675,
+        "type": "keyDown",
+        "button": "w",
+        "pos": null
+    },
+    {
+        "time": 24.516008138656616,
+        "type": "keyUp",
+        "button": "w",
+        "pos": null
+    },
+    {
+        "time": 30.56600856781006,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            342,
+            361
+        ]
+    },
+    {
+        "time": 33.628008127212524,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1370,
+            578
+        ]
+    }
+]

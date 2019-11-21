@@ -1,0 +1,68 @@
+[
+    {
+        "time": 5.06200098991394,
+        "type": "keyDown",
+        "button": "s",
+        "pos": null
+    },
+    {
+        "time": 7.086000680923462,
+        "type": "keyUp",
+        "button": "s",
+        "pos": null
+    },
+    {
+        "time": 7.56600022315979,
+        "type": "keyDown",
+        "button": "a",
+        "pos": null
+    },
+    {
+        "time": 7.902000665664673,
+        "type": "keyUp",
+        "button": "a",
+        "pos": null
+    },
+    {
+        "time": 8.230000019073486,
+        "type": "keyDown",
+        "button": "w",
+        "pos": null
+    },
+    {
+        "time": 9.99000096321106,
+        "type": "keyUp",
+        "button": "w",
+        "pos": null
+    },
+    {
+        "time": 10.382000207901001,
+        "type": "keyDown",
+        "button": "d",
+        "pos": null
+    },
+    {
+        "time": 10.590000867843628,
+        "type": "keyUp",
+        "button": "d",
+        "pos": null
+    },
+    {
+        "time": 11.48600149154663,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1120,
+            412
+        ]
+    },
+    {
+        "time": 14.81600022315979,
+        "type": "click",
+        "button": "Button.left",
+        "pos": [
+            1376,
+            582
+        ]
+    }
+]
