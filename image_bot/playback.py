@@ -13,9 +13,9 @@ def initializePyAutoGUI():
 
 def countdownTimer():
     # Countdown timer
-    print("Starting", end="")
+    print("Starting", end="", flush=True)
     for i in range(0, 6):
-        print(".", end="")
+        print(".", end="", flush=True)
         sleep(1)
     print("Go")
 
